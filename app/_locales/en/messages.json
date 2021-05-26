@@ -1,9 +1,9 @@
 {
-  "about": {
-    "message": "About"
+  "new_id": {
+  "message": "Hello World!"
   },
   "aboutSettingsDescription": {
-    "message": "Version, support center, and contact info"
+    "message": "Version 2, support center, and contact info"
   },
   "acceleratingATransaction": {
     "message": "* Accelerating a transaction by using a higher gas price increases its chances of getting processed by the network faster, but it is not always guaranteed."
