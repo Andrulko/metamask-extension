@@ -9,18 +9,18 @@
     "message": "* Die Beschleunigung einer Transaktion durch die Verwendung eines höheren Gaspreises erhöht die Chancen einer schnelleren Verarbeitung durch das Netz, wofür es allerdings keine Garantie gibt."
   },
   "acceptTermsOfUse": {
-    "message": "I have read and agree to the $1",
+    "message": "Ich habe die $1 gelesen und stimme zu",
     "description": "$1 is the `terms` message"
   },
   "accessAndSpendNotice": {
-    "message": "$1 may access and spend up to this max amount",
+    "message": "$1 kann bis zu diesem maximalen Betrag zugreifen und ausgeben",
     "description": "$1 is the url of the site requesting ability to spend"
   },
   "accessingYourCamera": {
     "message": "Zugriff auf Ihre Kamera …"
   },
   "account": {
-    "message": "Account"
+    "message": "Konto"
   },
   "accountDetails": {
     "message": "Accountdetails"
@@ -35,10 +35,10 @@
     "message": "Sie müssen ein Konto auswählen!"
   },
   "active": {
-    "message": "Active"
+    "message": "Aktiv"
   },
   "activity": {
-    "message": "Activity"
+    "message": "Aktivität"
   },
   "activityLog": {
     "message": "Aktivitätsprotokoll"
@@ -50,7 +50,7 @@
     "message": "Alias hinzufügen"
   },
   "addContact": {
-    "message": "Add contact"
+    "message": "Translation"
   },
   "addEthereumChainConfirmationDescription": {
     "message": "This will allow this network to be used within MetaMask."
