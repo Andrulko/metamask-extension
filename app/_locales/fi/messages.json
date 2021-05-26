@@ -1,9 +1,9 @@
 {
-  "about": {
-    "message": "Tietoja asetuksista"
+  "new_id": {
+    "message": "Hello World!"
   },
   "aboutSettingsDescription": {
-    "message": "Versio, tukikeskus ja yhteystiedot"
+    "message": "Version 2, support center, and contact info"
   },
   "acceleratingATransaction": {
     "message": "* Tapahtuman nopeuttaminen käyttämällä korkeampaa gas-hintaa parantaa mahdollisuutta, että verkko käsittelee sen nopeammin, mutta tämä ei ole aina taattua."
