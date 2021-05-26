@@ -1,9 +1,9 @@
 {
-  "about": {
-    "message": "Über"
+  "new_id": {
+    "message": "Hello World!"
   },
   "aboutSettingsDescription": {
-    "message": "Version, Supportcenter und Kontaktinformationen"
+    "message": "Version 2, support center, and contact info"
   },
   "acceleratingATransaction": {
     "message": "* Die Beschleunigung einer Transaktion durch die Verwendung eines höheren Gaspreises erhöht die Chancen einer schnelleren Verarbeitung durch das Netz, wofür es allerdings keine Garantie gibt."
