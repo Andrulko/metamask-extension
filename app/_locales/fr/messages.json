@@ -1,9 +1,9 @@
 {
-  "about": {
-    "message": "À propos"
+  "new_id": {
+    "message": "Hello World!"
   },
   "aboutSettingsDescription": {
-    "message": "Version, centre d'assistance et coordonnées"
+    "message": "Version 2, support center, and contact info"
   },
   "acceleratingATransaction": {
     "message": "* Accélérer une transaction en utilisant un prix de l'essence plus élevé augmente ses chances d'être traitée plus rapidement par le réseau, mais ce n'est pas toujours garanti."
